@@ -17,7 +17,6 @@ Full stack engineer from Pakistan crafting scalable web apps: CRMs, ERPs, SaaS p
 
 - 🔭 Currently building **HisabKarLay CRM / HRMS** at CrossDevLogix
 - ⚡ Real-time WhatsApp inboxes, visual flow builders and LLM tool-use agents
-- 🏆 1st place in department for my Final Year Project, *The Botanic Scanner*
 
 ### 🛠️ Tech stack
 
