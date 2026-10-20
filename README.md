@@ -13,7 +13,7 @@
 
 ### 👋 About me
 
-Full stack engineer from Pakistan with 5+ years of building production web apps: multi-tenant CRMs, school ERPs, SaaS analytics and 20+ client websites.
+Full stack engineer from Pakistan building production web apps: multi-tenant CRMs, school ERPs, SaaS analytics and 20+ client websites.
 
 - 🔭 Currently building **HisabKarLay CRM / HRMS** at CrossDevLogix
 - ⚡ Real-time WhatsApp inboxes, visual flow builders and LLM tool-use agents
