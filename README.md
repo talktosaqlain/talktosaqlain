@@ -13,7 +13,7 @@
 
 ### 👋 About me
 
-Full stack engineer from Pakistan building production web apps: multi-tenant CRMs, school ERPs, SaaS analytics and 20+ client websites.
+Full stack engineer from Pakistan crafting scalable web apps: CRMs, ERPs, SaaS platforms and AI-powered products.
 
 - 🔭 Currently building **HisabKarLay CRM / HRMS** at CrossDevLogix
 - ⚡ Real-time WhatsApp inboxes, visual flow builders and LLM tool-use agents
@@ -32,7 +32,7 @@ Full stack engineer from Pakistan building production web apps: multi-tenant CRM
 | Project | What it is | Stack |
 |---|---|---|
 | **HisabKarLay CRM** | Multi-tenant CRM + HRMS with a real-time WhatsApp inbox and visual flow builders | Next.js · Django · Laravel |
-| **Albarkat School ERP** | Multi-campus school ERP, built solo | Django · Next.js · PostgreSQL |
+| **Albarkat ERP** | Full multi-campus ERP, built solo | Django · Next.js · PostgreSQL |
 | **ShrINK** | Salesforce org analyzer with ~30% faster data sync | Django · Celery · Redis |
 | **Slayer** | Sales CRM you operate by chatting with Claude | Django · Claude · Next.js |
 | **AI Smart City** | YOLOv8 traffic and crowd monitoring with forecasting | Next.js · FastAPI · PostgreSQL |
