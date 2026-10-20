@@ -36,15 +36,5 @@ Full stack engineer from Pakistan crafting scalable web apps: CRMs, ERPs, SaaS p
 | **Slayer** | Sales CRM you operate by chatting with Claude | Django · Claude · Next.js |
 | **AI Smart City** | YOLOv8 traffic and crowd monitoring with forecasting | Next.js · FastAPI · PostgreSQL |
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=talktosaqlain&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talktosaqlain&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=talktosaqlain&theme=tokyonight&hide_border=true" />
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%"/>
