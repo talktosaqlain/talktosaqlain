@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Muhammad%20Saqlain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Software%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=520&lines=Next.js+%E2%80%A2+React+%E2%80%A2+TypeScript;Django+%E2%80%A2+FastAPI+%E2%80%A2+NestJS;CRMs%2C+ERPs+%26+WhatsApp+automation;Applied+AI+with+Claude+%26+OpenAI" alt="Typing SVG" />
 
 <a href="https://linkedin.com/in/talktosaql/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
